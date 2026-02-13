@@ -11,7 +11,7 @@ Należy zaimplementować mechanizm przesunięcia (shift) dla liter alfabetu łac
 
 - Przesunięcie znaku o wartość $n$ w prawo wewnątrz alfabetu.
 
-- Wzór dla dużych liter: $ (c - A + shift)\ (mod \ 26) + A$
+- Wzór dla dużych liter: $(c - A + shift) \ (mod \ 26) + A$
 
 2. Deszyfrowanie (CezarInputStream)
 
@@ -19,7 +19,7 @@ Należy zaimplementować mechanizm przesunięcia (shift) dla liter alfabetu łac
 
 - Przesunięcie znaku o wartość $n$ w lewo (odwrócenie szyfru).
 
-- Wzór dla dużych liter: $ (c - A - shift + 26)\ (mod \ 26) + A$
+- Wzór dla dużych liter: $(c - A - shift + 26) \ (mod \ 26) + A$
 
 3. Demonstracja działania
 
