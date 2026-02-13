@@ -1,0 +1,1 @@
+Proszę zmodyfikować rozwiązanie zadania ze sprawdzianu nr 1 korzystając z przetwarzania równoległego (wątków), tak aby nowy program działał możliwie najszybciej. Proszę porównać czaszy wykonania obu programów
